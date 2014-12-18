@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\10114062\praktikum_array\Praktikum_array.dp
+Name=Praktikum_array
+MainUnit=D:\10114062\praktikum_array\Daftar_gaji_pegawai.pas
+UnitCount=1
+ResFiles=D:\10114062\praktikum_array\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\10114062\praktikum_array\Daftar_gaji_pegawai.pas
+FileTime=1167150164
